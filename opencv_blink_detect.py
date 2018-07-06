@@ -74,7 +74,7 @@ def calculate_EAR(eye):
         EAR = (A+B)/width
         return EAR
     else:
-        print "Error in eye shape"
+        print ("Error in eye shape")
         return -1
 
 
